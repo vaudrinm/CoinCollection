@@ -1,0 +1,17 @@
+Id,Name,RetailValue,WholesaleValue,Year,Count,Description,IsSummary,IsUnique,Container,Bag
+,Unique Items,330,99,,1,,TRUE,FALSE,Large Bag,1
+1,Item 1,40,20,1234,1,,FALSE,TRUE,Large Bag,2
+2,Item 2,60,24,1899,1,,FALSE,TRUE,Large Bag,2
+3,Item 3,50,25,1888,1,,FALSE,TRUE,Large Bag,2
+4,Item 4,24,12,1723,1,,FALSE,TRUE,Large Bag,3
+5,Item 5,28,13,1909,1,,FALSE,TRUE,Large Bag,2
+6,Item 6,30,15,1899,1,,FALSE,TRUE,Large Bag,2
+7,Item 7,30,15,1888,1,,FALSE,TRUE,Large Bag,2
+,Unremarkable Items,330,99,,,,TRUE,FALSE,Large Bag,1
+8,Item 8,21,12,0,3,,FALSE,FALSE,Large Bag,2
+9,Item 9,12,6,0,3,,FALSE,FALSE,Large Bag,2
+10,Item 10,9,4.5,0,3,,FALSE,FALSE,Large Bag,2
+11,Item 11,15,6,0,3,,FALSE,FALSE,Large Bag,3
+12,Item 12,6,3,0,3,,FALSE,FALSE,Large Bag,2
+13,Item 13,5.25,3,0,3,,FALSE,FALSE,Large Bag,2
+14,Item 14,24,8.25,0,3,,FALSE,FALSE,Large Bag,2

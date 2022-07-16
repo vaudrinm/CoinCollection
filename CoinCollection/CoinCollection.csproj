@@ -7,4 +7,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Resources\CoinCollectionInventory.csv" />
+    <None Remove="Resources\CoinCollectionTestData.csv" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\CoinCollectionInventory.csv" />
+    <EmbeddedResource Include="Resources\CoinCollectionTestData.csv" />
+  </ItemGroup>
+
 </Project>
