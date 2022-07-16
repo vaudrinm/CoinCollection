@@ -1,0 +1,15 @@
+C:\Users\jvaud\source\repos\CoinCollection\CoinCollection\bin\Debug\net6.0\CoinCollection.exe
+C:\Users\jvaud\source\repos\CoinCollection\CoinCollection\bin\Debug\net6.0\CoinCollection.deps.json
+C:\Users\jvaud\source\repos\CoinCollection\CoinCollection\bin\Debug\net6.0\CoinCollection.runtimeconfig.json
+C:\Users\jvaud\source\repos\CoinCollection\CoinCollection\bin\Debug\net6.0\CoinCollection.dll
+C:\Users\jvaud\source\repos\CoinCollection\CoinCollection\bin\Debug\net6.0\CoinCollection.pdb
+C:\Users\jvaud\source\repos\CoinCollection\CoinCollection\obj\Debug\net6.0\CoinCollection.csproj.AssemblyReference.cache
+C:\Users\jvaud\source\repos\CoinCollection\CoinCollection\obj\Debug\net6.0\CoinCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvaud\source\repos\CoinCollection\CoinCollection\obj\Debug\net6.0\CoinCollection.AssemblyInfoInputs.cache
+C:\Users\jvaud\source\repos\CoinCollection\CoinCollection\obj\Debug\net6.0\CoinCollection.AssemblyInfo.cs
+C:\Users\jvaud\source\repos\CoinCollection\CoinCollection\obj\Debug\net6.0\CoinCollection.csproj.CoreCompileInputs.cache
+C:\Users\jvaud\source\repos\CoinCollection\CoinCollection\obj\Debug\net6.0\CoinCollection.dll
+C:\Users\jvaud\source\repos\CoinCollection\CoinCollection\obj\Debug\net6.0\refint\CoinCollection.dll
+C:\Users\jvaud\source\repos\CoinCollection\CoinCollection\obj\Debug\net6.0\CoinCollection.pdb
+C:\Users\jvaud\source\repos\CoinCollection\CoinCollection\obj\Debug\net6.0\CoinCollection.genruntimeconfig.cache
+C:\Users\jvaud\source\repos\CoinCollection\CoinCollection\obj\Debug\net6.0\ref\CoinCollection.dll
