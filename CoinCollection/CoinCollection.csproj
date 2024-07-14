@@ -10,6 +10,8 @@
   <ItemGroup>
     <None Remove="Resources\CoinCollectionInventory.csv" />
     <None Remove="Resources\CoinCollectionTestData.csv" />
+    <None Remove="Comparers\" />
+    <None Remove="Extensions\" />
   </ItemGroup>
 
   <ItemGroup>
@@ -17,4 +19,8 @@
     <EmbeddedResource Include="Resources\CoinCollectionTestData.csv" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Comparers\" />
+    <Folder Include="Extensions\" />
+  </ItemGroup>
 </Project>

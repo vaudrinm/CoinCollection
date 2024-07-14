@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "cyZFGYR/nJzX3qCcxmue3x3+dyIUdAe+jhGV+tPePuvxuomsTyp3tyhf1SVicYI23Lli1zrM5bqm/6khOb+nDw==",
+  "dgSpecHash": "XvVjuymSsPvrqv5TFbVGD0c4C/oxslsSG9LfDFwvYcgvIVjIoH1kF5Mp11WAfyCvq8n/JNRAYKHdkgoHTYL09A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jvaud\\source\\repos\\CoinCollection\\CoinCollection\\CoinCollection.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/jeffreyvaudrin-mclean/repos/CoinCollection/CoinCollection/CoinCollection.csproj",
+  "expectedPackageFiles": [
+    "/Users/jeffreyvaudrin-mclean/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/jeffreyvaudrin-mclean/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/jeffreyvaudrin-mclean/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -22,7 +22,7 @@ namespace CoinCollection
                     row = line.Split(',');
                     CollectionItem rawItem = new CollectionItem
                     {
-                        Id = float.Parse(row[0]),
+                        Id = row[0],
                         Name = row[1],
                         RetailValue = float.Parse(row[2]),
                         WholesaleValue = float.Parse(row[3]),
@@ -41,6 +41,9 @@ namespace CoinCollection
             return collectionData;
         }
 
+        // Likely needs retooling
+        // Intended to split summary items into individual items (as opposed to
+        // distributing based on equivalent subdivisions
         public static List<CollectionItem> ComposeDiscreetItemList(List<CollectionItem> rawCollection)
         {
             List<CollectionItem> collectionData = new List<CollectionItem>();
